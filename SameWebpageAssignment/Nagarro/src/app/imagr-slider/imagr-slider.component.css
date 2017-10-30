@@ -1,0 +1,14 @@
+
+
+.imageslider{
+  position: absolute;
+  top: 15%;
+  left: 8cm;
+  right: 5cm;
+  height: 27%;
+}
+.image{
+
+  height: 100%;
+  width: 100%;
+}
